@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="750dff76-67c6-450d-8f2e-b26d8709ea58" name="https://github.com/celinaschr/CloudComputing.git" url="https://github.com/celinaschr/CloudComputing.git">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</project>
